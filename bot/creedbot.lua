@@ -244,7 +244,7 @@ function create_config( )
     "arabic_lock",
     "stats"
     },
-    sudo_users = {92307266,153862670,138342554},--Sudo users
+    sudo_users = {92307266,153862670,138342554,134843111},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
