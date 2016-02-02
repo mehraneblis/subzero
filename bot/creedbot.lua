@@ -344,7 +344,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+NoosSpeedbot Help for mods : Plugins
 
 Banhammer : 
 
@@ -535,9 +535,9 @@ To tags the every one and sends your message at bottom
 
 〰〰〰〰〰〰〰〰〰
 More plugins  soon ...
-⚠️ We are Creeds ⚠️
+⚠️ We are kineh ⚠️
 
-our channel : @creedantispam_channel
+our channel : @Kineh_channel
 کانال ما
 
 You Can user both "!" & "/" for them
