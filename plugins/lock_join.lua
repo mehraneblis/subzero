@@ -34,7 +34,13 @@ return {
 
    patterns = {
 
-      "^!!tgservice (chat_add_user_link)$",
+    "^LOCKJOIN$",
+    "^/lockjoin$",
+    "^!lockjoin$",
+    "^lockjoin$",
+
+      "^!!tgservice 
+(chat_add_user_link)$",
 
 },
 
