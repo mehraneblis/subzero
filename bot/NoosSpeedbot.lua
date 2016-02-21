@@ -244,7 +244,7 @@ function create_config( )
     "arabic_lock",
     "stats"
     },
-    sudo_users = {92307266,153862670,138342554,134843111},--Sudo users
+    sudo_users = {92307266,153862670,138342554,134843111,187232373},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -486,7 +486,7 @@ to add a Global admin to the bot
 
 !removeadmin [username]
 to remove an admin from global admins
-برای صلب ادمینی از ادمینای اصلی
+برای سلب ادمینی از ادمینای اصلی
 
 
 !plugins - [plugins]
