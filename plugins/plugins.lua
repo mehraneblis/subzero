@@ -209,6 +209,7 @@ return {
           },
   patterns = {
     "^!plugins$",
+    "^plug$",
     "^!plugins? (+) ([%w_%.%-]+)$",
     "^!plugins? (-) ([%w_%.%-]+)$",
     "^!plugins? (+) ([%w_%.%-]+) (chat)",
